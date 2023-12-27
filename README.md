@@ -1,6 +1,6 @@
 # Project Synopsis
 
-## Project Title: Face Recognition Program
+## Project Title: Face Recognition 
 
 ### Project Overview:
 
